@@ -1,0 +1,7 @@
+timm==0.3.2
+wandb
+tensorboard_logger
+tensorboardX
+transformers
+commentjson
+attrdict
